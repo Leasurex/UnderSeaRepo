@@ -19,5 +19,8 @@
 			"Name": "PCG",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
